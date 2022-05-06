@@ -6,3 +6,4 @@ const blueColor = Color.fromRGBO(138, 180, 248, 1);
 const searchBorder = Color.fromRGBO(95, 99, 104, 1);
 const primaryColor = Colors.white;
 const footerColor = Color.fromRGBO(23, 23, 23, 1);
+
